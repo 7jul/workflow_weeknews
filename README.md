@@ -6,3 +6,7 @@
 运行bat文件，按提示操作。
 
 上传了应用实例。
+
+需安装依赖库
+
+pip install requests beautifulsoup4
